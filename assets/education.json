@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "brand": "uow",
+            "year": "Jul 2017 – Nov 2018",
+            "course": "Master of Information Technology",
+            "class": "First Class Honors",
+            "uni": "University of Waikato, New Zealand",
+            "mode": " "
+        },
+        {
+            "brand": "uom",
+            "year": "Jan 2008 – Dec 2010",
+            "course": "Master of Computer Application",
+            "class": "First Class",
+            "uni": "University of Madras,India",
+            "mode": "Distance Education"
+        },
+        {
+            "brand": "bharuniv",
+            "year": "2004 – 2007",
+            "course": "Bachelor of Science ( Information Technology) ",
+            "class": "First Class",
+            "uni": "Bharthidasan University, TamilNadu, India",
+            "mode": ""
+        }
+    ]
+}

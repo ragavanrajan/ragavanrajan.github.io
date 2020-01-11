@@ -1,0 +1,42 @@
+[
+    {
+        "stack": "Front End",
+        "technology": "Angular, NgRx, Redux, jQuery, Twitter Bootstrap, PrimeNG, HTML5, CSS3 (SASS, LESS), SharePoint 2010/2013/online, InfoPath"
+    },
+    {
+        "stack": "Back End",
+        "technology": "C#, Node.JS, AWS EC2, Linux, SharePoint Server 2013/2010, Office 365, IIS"
+    },
+    {
+        "stack": "Framework",
+        "technology": "Angular 7+, Office Add-ins, PWA, Ionic, Cordova, .NET Framework 3.5, 4.0"
+    },
+    {
+        "stack": "Databases",
+        "technology": "Microsoft SQL Server 2012/2008, LINQ Firebase, DynamoDB, MongoDB, SQLite, Oracle 10g/9i"
+    },
+    {
+        "stack": "Programming Languages",
+        "technology": "JavaScript (ES7+), TypeScript, Python, C#.Net, bash,VBA, VBScript"
+    },
+    {
+        "stack": "Testing Framework",
+        "technology": "Cypress, Katalon Studio, Protractor, Jasmine, Cucumber, Chai and Karma."
+    },
+    {
+        "stack": "Version Control",
+        "technology": "Azure DevOps, GitHub, GitLab, Tortoise, SharePoint SVN"
+    },
+    {
+        "stack": "Development Tools",
+        "technology": "WebStorm, Sublime Text3, Visual Studio code, ATOM, SharePoint Designer, Visual Studio, Notepad++, Chrome Dev Tools, Firebug"
+    },
+    {
+        "stack": "Tools and CI",
+        "technology": "Webpack, MS Flow, AWS, Azure, Docker, Gulp, npm, Toad, WinSCP, GitLab CI"
+    },
+    {
+        "stack": "Other Technical Proficiencies",
+        "technology": "Proto.io, Axure RP, PowerApps, PowerBi, Visio, Lucid Chart, OneNote"
+    }
+]
